@@ -1,0 +1,11 @@
+The following application will help you browse the data about foreign residents in the Lombardy region of Italy from the OpenData project (https://www.dati.lombardia.it).
+
+Begin by selecting which features you would like to include and exclude from the analysis by checking and unchecking the approriate checkboxes in the widget below.
+The parameters you could work on are: the area districts (the Lombardy region is divided in 12 provinces, more information on wikipedia: https://en.wikipedia.org/wiki/Lombardy
+), the age range of the foreign residents and their sex (male and/or female). Instead, the slider will help you selecting the range of years to be analyzed (at the present time the dataset includes information from year 2011 to year 2016).
+
+As soon as you are satisfied, switch to one of the other two tabs: *"Plot"* will display a graphical representation of the number of foreign residents, the *"Table"* tab will shows the same information in a tabular format.
+The widgets will remain anchored at the bottom of the page so you might change some of the parameters without getting back to this page: the related plot and data table will be updated "on the fly" according to your choices.
+
+In case you would like to read the documentation again, click on the "istruction" tab to get back to this page.
+
